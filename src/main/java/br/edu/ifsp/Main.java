@@ -9,6 +9,8 @@ import java.math.BigDecimal;
 import java.util.List;
 import java.util.Scanner;
 
+//Aluno: Guilherme Pereira da Silva
+
 public class Main {
 
      static void main(String[] args) {
